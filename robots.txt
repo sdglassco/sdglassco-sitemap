@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sdglassco.github.io/sdglassco-sitemap/sitemap.xml
